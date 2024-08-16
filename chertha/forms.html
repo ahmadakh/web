@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <title>fonts</title>
+</head>
+
+<body dir="rtl">
+        <legend>فرم ثبت نام</legend>
+        <form action="" width='450'>
+
+            <table width="450" border="0" align="center">
+                <tr>
+                    <td width="150" align="left" class="td1">
+                        نام کاربری :
+                    </td>
+                    <td>
+                        <input type="text" maxlength="15" size="20" placeholder="نام کاربری خود را وارد کنید" id="name1">
+                    </td>
+                </tr>
+
+                <tr>
+                    <td width="150" align="left" class="td2">
+                        رمز عبور :
+                    </td>
+                    <td>
+                        <input type="password" maxlength="15" size="20" placeholder="رمز عبور خود را وارد کنید" id="name2">
+                    </td>
+                </tr>
+
+                <tr>
+                    <td width="150" align="left" class="td3">
+                        ایمیل :
+                    </td>
+                    <td>
+                        <input type="email" maxlength="15" size="20" placeholder="ایمیل خود را وارد کنید" id="name3">
+                    </td>
+                </tr>
+
+                <tr>
+                    <td width="150" align="left" valign="top" class="td4">
+                        آدرس :
+                    </td>
+                    <td>
+                        <textarea rows="10" cols="20"></textarea>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td width="150" align="left" valign="top" class="td5">
+                        جنسیت :
+                    </td>
+                    <td>
+                        <input type='radio' name="ahmad">مرد
+                        <input type='radio' name="ahmad">زن
+                    </td>
+                </tr>
+
+                <tr>
+                    <td width="150" align="left" valign="top" class="td6">
+                        شهر :
+                    </td>
+                    <td>
+                        <select class="select1">
+                            <option>اصفهان</option>
+                            <option id="s1">تهران</option>
+                            <option id="s2">بیرجند</option>
+                            <option id="s3">شیراز</option>
+                            <option id="s4">تبریز</option>
+                        </select>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td width="150" align="left" valign="top" class="td7">
+                        استان :
+                    </td>
+                    <td>
+                        <select class="select2">
+                            <optgroup label="شرق" class="c1">
+                                <option class="c2">خراسان جنوبی</option>
+                                <option class="c3">خراسان رضوی</option>
+                                <option class="c4">سیستان و بلوچستان</option>
+                            </optgroup>
+                            <optgroup label="شمال" class="c1">
+                                <option class="c5">گلستان</option>
+                                <option class="c6">مازندران</option>
+                                <option class="c7">آذربایجان</option>
+                            </optgroup>
+                        </select>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td width="150" align="left" valign="top" class="td8">
+                        علاقه مندی ها :
+                    </td>
+                    <td>
+                        <input type="checkbox">موزیک
+                        <input type="checkbox">سفر
+                        <input type="checkbox">ورزش
+                    </td>
+                </tr>
+
+                <tr>
+                    <td width="150" align="left" valign="top" class="td9">
+                        فایل :
+                    </td>
+                    <td>
+                        <input type="file" class="f1">
+                    </td>
+                </tr>
+
+                <tr>
+                    <td colspan="2" align="center">
+                            <input type="submit" value="ثبت نام" href="img/mom/4.jpg" class="u1">
+                    </td>
+                </tr>
+
+                <tr>
+                    <td colspan="2" align="center">
+                        <input type="reset" value="پاک کردن فرم" class="r1">
+                    </td>
+                </tr>
+
+            </table>
+
+        </form>
+</body>
+
+</html>

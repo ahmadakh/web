@@ -1,0 +1,143 @@
+body{
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: gray;
+}
+
+form{
+    background-color: darkcyan;
+    border-radius: 12px;
+}
+
+#name1{
+    border-radius: 5px;
+    background-color: lightblue;
+    border-color: lightblue;
+    border-style: dashed;
+}
+
+#name2{
+    border-radius: 5px;
+    background-color: greenyellow;
+    border-color: greenyellow;
+    border-style: dashed;
+}
+
+#name3{
+    border-radius: 5px;
+    background-color: lightcoral;
+    border-color: lightcoral;
+    border-style: dashed;
+}
+
+textarea{
+    border-radius: 5px;
+    background-color: lightsalmon;
+    border-color: lightsalmon;
+    border-style: dashed;
+}
+
+.select1{
+    border-radius: 5px;
+    background-color: lightseagreen;
+    border-color: lightseagreen;
+    border-style: dashed;
+    font-weight: bold;
+}
+
+.select2{
+    border-radius: 5px;
+    background-color: lightgoldenrodyellow;
+    border-color: lightgoldenrodyellow;
+    border-style: dashed;
+    font-weight: bold;
+}
+
+#s1{
+    background-color: aquamarine;
+    border-color: aquamarine;
+    border-style: dashed;
+    font-weight: bold;
+}
+
+#s2{
+    background-color: greenyellow;
+    border-color: greenyellow;
+    border-style: dashed; 
+    font-weight: bold;
+}
+
+#s3{
+    background-color: rebeccapurple;
+    border-color: rebeccapurple;
+    border-style: dashed;
+    font-weight: bold;
+}
+
+#s4{
+    background-color: brown;
+    border-color: brown;
+    border-style: dashed;
+    font-weight: bold;
+}
+
+.c1{
+    background-color: tomato;
+    border-color: tomato;
+    border-style: dashed;
+    font-weight: bold;
+}
+
+.c2{
+    background-color: purple;
+    border-color: purple;
+    border-style: dashed;
+    font-weight: bold;
+}
+
+.c3{
+    background-color: cadetblue;
+    border-color: cadetblue;
+    border-style: dashed;
+    font-weight: bold;
+}
+
+.c4{
+    background-color: burlywood;
+    border-color: burlywood;
+    border-style: dashed;
+    font-weight: bold;
+}
+
+.c5{
+    background-color: yellow;
+    border-color: yellow;
+    border-style: dashed;
+    font-weight: bold;
+}
+
+.c5{
+    background-color: green;
+    border-color: green;
+    border-style: dashed;
+    font-weight: bold;
+}
+
+.c6{
+    background-color: orange;
+    border-color: orange;
+    border-style: dashed;
+    font-weight: bold;
+}
+
+.u1{
+    background-color: green;
+    border-color: darkgreen;
+    border-width: 2px;
+}
+
+.r1{
+    background-color: red;
+    border-color: darkred;
+    border-width: 2px;
+}
